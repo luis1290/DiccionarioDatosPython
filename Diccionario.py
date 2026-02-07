@@ -4,3 +4,7 @@ preson = {
     "edad": 30, 
     "correo": "juan@ejemplo.com"
 }
+
+for clave in preson.keys():
+    print(clave)
+
